@@ -1,0 +1,1 @@
+from Kurisu.kurisu import Kurisu
